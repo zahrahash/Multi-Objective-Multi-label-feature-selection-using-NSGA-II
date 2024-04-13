@@ -6,8 +6,6 @@ In the field of machine learning, feature selection stands as a pivotal pre-proc
 
 
 
-
-
 ## NSGA-II algorithm
 
 The Non-dominated Sorting Genetic Algorithm II (NSGA-II) is an evolutionary algorithm designed for solving multi-objective optimization problems. It works by evolving a population of 
