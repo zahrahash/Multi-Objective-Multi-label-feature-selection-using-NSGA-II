@@ -4,7 +4,6 @@
 In the field of machine learning, feature selection stands as a pivotal pre-processing step, aimed at enhancing model performance by eliminating redundant or irrelevant features. This project focuses on using Non-dominated Sorting Genetic Algorithm II (NSGA-II) for multi-objective feature selection in multi-label classification tasks. The main objectives of this approach are to minimize the hamming loss and the number of features used.
 
 
-
 ## NSGA-II algorithm
 
 The Non-dominated Sorting Genetic Algorithm II (NSGA-II) is an evolutionary algorithm designed for solving multi-objective optimization problems. It works by evolving a population of 
